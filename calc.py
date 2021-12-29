@@ -8,6 +8,7 @@ def subtract(x, y):
 
 
 def multiply(x, y):
+    # this will return the multiplication of two numbers
     return x*y
 
 
